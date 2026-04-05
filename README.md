@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Faisal Ahmed Rony
 
-<!--
-**ahmedronyfaisal/ahmedronyfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate and the founder of **[Total InfoHub](https://totalinfohub.com/)**. I am passionate about technology, digital marketing, and helping people grow in the online world.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building high-quality tech resources at **Total InfoHub**.
+- 🌱 I’m currently learning advanced SEO and Data Science.
+- 💬 Ask me about **SEO, Content Strategy, or Tech Reviews**.
+- 📫 How to reach me: **contact@totalinfohub.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Visit my platform for:
+*   [Technology Guides & Reviews](https://totalinfohub.com/technology/)
+*   [Online Tools & Reviews](https://totalinfohub.com/online-tools/)
+*   [Make Money Online Strategies](https://totalinfohub.com/making-money/)
