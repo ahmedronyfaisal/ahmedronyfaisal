@@ -1,13 +1,49 @@
-### Hi there 👋, I'm Faisal Ahmed Rony
+# 👋 Hello, I'm Faisal Ahmed Rony
+### Computer Science Graduate | Digital Marketing & SEO Specialist
 
-I am a Computer Science graduate and the founder of **[Total InfoHub](https://totalinfohub.com/)**. I am passionate about technology, digital marketing, and helping people grow in the online world.
+I am the architect behind **[Total InfoHub](https://totalinfohub.com/)**, a digital ecosystem dedicated to simplifying complex technology and strategic online growth. My work focuses on merging technical CS expertise with modern SEO methodologies.
 
-- 🔭 I’m currently working on building high-quality tech resources at **Total InfoHub**.
-- 🌱 I’m currently learning advanced SEO and Data Science.
-- 💬 Ask me about **SEO, Content Strategy, or Tech Reviews**.
-- 📫 How to reach me: **contact@totalinfohub.com**
+---
 
-#### 🌐 Visit my platform for:
-*   [Technology Guides & Reviews](https://totalinfohub.com/technology/)
-*   [Online Tools & Reviews](https://totalinfohub.com/online-tools/)
-*   [Make Money Online Strategies](https://totalinfohub.com/making-money/)
+### 🎓 Academic & Professional Accreditations
+| Platform | Certification / Degree | Verification |
+| :--- | :--- | :--- |
+| **University** | Bachelor of Computer Science | Verified Graduate |
+| **Google** | Fundamentals of Digital Marketing | [View Credential](https://skillshop.exceedlms.com/student/award/r57Fs6EwMSqbFDAU7pq6iTNh) |
+| **Kaggle** | Intro to SQL | [View Certificate](https://www.kaggle.com/learn/certification/faisalahmedronybd/intro-to-sql) |
+| **Kaggle** | Intro to Machine Learning | [View Certificate](https://www.kaggle.com/learn/certification/faisalahmedronybd/intro-to-machine-learning) |
+
+---
+
+### 🌐 My Digital Footprint
+Explore my professional presence across various high-authority platforms:
+
+#### 🚀 Primary Project
+*   **Official Website:** [Total InfoHub - Tech & SEO Guides](https://totalinfohub.com/)
+
+#### 🛠️ Tech & Innovation
+*   **daily.dev:** [faisalahmedrony - Dev Insights](https://app.daily.dev/faisalahmedrony)
+*   **Codeberg:** [faisalahmedrony](https://codeberg.org/faisalahmedrony)
+*   **Disroot Forge:** [faisalahmedrony](https://git.disroot.org/faisalahmedrony)
+*   **ProductHunt:** [@faisal_ahmed_rony](https://www.producthunt.com/@faisal_ahmed_rony)
+*   **Hashnode:** [@faisalahmedrony](https://hashnode.com/@faisalahmedrony)
+
+#### 📝 Thought Leadership & Community
+*   **Substack:** [@faisalahmedrony - Newsletter](https://substack.com/@faisalahmedrony)
+*   **Medium:** [@ahmedronyfaisal](https://medium.com/@ahmedronyfaisal)
+*   **Quora:** [Faisal Ahmed Rony - SEO Expert](https://www.quora.com/profile/Faisal-Ahmed-Rony-3)
+*   **Academia.edu:** [Research & Insights](https://independent.academia.edu/FaisalAhmedRony)
+*   **PMI Community:** [Professional Profile](https://community.pmi.org/profile/faisalahmedrony)
+
+#### 💼 Business & Professional Networks
+*   **LinkedIn:** [in/ahmedronyfaisal](https://www.linkedin.com/in/ahmedronyfaisal/)
+*   **Crunchbase:** [Faisal Ahmed Rony Profile](https://www.crunchbase.com/person/faisal-ahmed-rony)
+*   **TheOrg:** [Total InfoHub - Org Chart](https://theorg.com/org/total-infohub/org-chart/faisal-ahmed-rony)
+*   **F6S:** [faisal-ahmed-rony](https://www.f6s.com/member/faisal-ahmed-rony)
+
+---
+
+### 🔭 Current Focus
+Currently building the most reliable resource hub for SEO tools and tech reviews at **Total InfoHub**. My goal is to empower users with data-driven digital insights.
+
+📫 **Reach out:** [contact@totalinfohub.com](mailto:contact@totalinfohub.com)
