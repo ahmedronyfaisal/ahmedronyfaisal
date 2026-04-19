@@ -8,10 +8,14 @@ I am the architect behind **[Total InfoHub](https://totalinfohub.com/)**, a digi
 ### 🎓 Academic & Professional Accreditations
 | Platform | Certification / Degree | Verification |
 | :--- | :--- | :--- |
-| **University** | Bachelor of Computer Science | Verified Graduate |
-| **Google** | Fundamentals of Digital Marketing | [View Credential](https://skillshop.exceedlms.com/student/award/r57Fs6EwMSqbFDAU7pq6iTNh) |
-| **Kaggle** | Intro to SQL | [View Certificate](https://www.kaggle.com/learn/certification/faisalahmedronybd/intro-to-sql) |
-| **Kaggle** | Intro to Machine Learning | [View Certificate](https://www.kaggle.com/learn/certification/faisalahmedronybd/intro-to-machine-learning) |
+| University | Bachelor of Computer Science | Verified Graduate |
+| Google | Fundamentals of Digital Marketing | [View Credential](https://skillshop.exceedlms.com/student/award/r57Fs6EwMSgbFDAU7pq6iTNh) |
+| Google | Google Analytics Certification | [View Credential](https://skillshop.accredible.com/profile/d5114820-556d-4ac3-9c28-bcb9f676ac2b) |
+| HubSpot | Digital Marketing Certification | [View Credential](https://app-na2.hubspot.com/academy/achievements/brgfpczf/en/1/faisal-ahmed-rony/digital-marketing) |
+| HubSpot | SEO Certification | [View Credential](https://app-na2.hubspot.com/academy/achievements/r2v945p4/en/1/faisal-ahmed-rony/seo) |
+| HubSpot | Advanced SEO II Certification | [View Credential](https://app-na2.hubspot.com/academy/achievements/cf0jg8c1/en/1/faisal-ahmed-rony/seo-ii) |
+| Kaggle | Intro to SQL | [View Certificate](https://www.kaggle.com/learn/certification/faisalahmedronybd/intro-to-sql) |
+| Kaggle | Intro to Machine Learning | [View Certificate](https://www.kaggle.com/learn/certification/faisalahmedronybd/intro-to-machine-learning) |
 
 ---
 
