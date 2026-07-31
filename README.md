@@ -1,6 +1,3 @@
-# 👋 Hello, I'm Faisal Ahmed Rony
-### Computer Science Graduate | Digital Marketing & SEO Specialist
-
 ## 🚀 Official Portfolio
 
 I'm excited to share my official personal portfolio website.
@@ -9,7 +6,15 @@ I'm excited to share my official personal portfolio website.
 
 Explore my professional experience, projects, certifications, technical skills, and digital initiatives.
 
-I am the architect behind **[Total InfoHub](https://totalinfohub.com/)**, a digital ecosystem dedicated to simplifying complex technology and strategic online growth. My work focuses on merging technical CS expertise with modern SEO methodologies.
+### 🌟 My Digital Ventures
+
+🏢 **Info Ghor:** https://infoghor.com/  
+A business directory and knowledge platform featuring companies, technology, finance, services, and industry insights.
+
+💡 **Total InfoHub:** https://totalinfohub.com/  
+Technology, SEO, AI, and digital marketing resources for professionals and learners.
+
+I am the architect behind **Total InfoHub**, a digital ecosystem dedicated to simplifying complex technology and strategic online growth. My work focuses on merging technical Computer Science expertise with modern SEO methodologies.
 
 ---
 
